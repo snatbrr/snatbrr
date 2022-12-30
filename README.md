@@ -33,9 +33,8 @@
 
 - **Languages**:
     
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![J](https://imgs.search.brave.com/kzxGLntpYQ1LGYVE_J5vhaE2IadMQajIMHF2brl6fzw/rs:fit:900:600:1/g:ce/aHR0cHM6Ly93d3cu/bWVtZS1hcnNlbmFs/LmNvbS9tZW1lcy9h/ZWRjY2I3Yjg4ODQ2/OGQzNWU5ODU1ZTUw/M2I4ZTcwNi5qcGc)
+   
 
 <br>   
     
