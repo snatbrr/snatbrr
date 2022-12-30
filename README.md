@@ -13,5 +13,5 @@
 ---
 <div align="center">
 
-[![Discord](https://lanyard.cnrad.dev/api/993192453534400612?bg=00000000)](https://discord.com/users/811071091887702106)
+[![Discord](https://lanyard.cnrad.dev/api/811071091887702106?bg=00000000)](https://discord.com/users/811071091887702106)
 </div>
