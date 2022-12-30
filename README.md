@@ -1,6 +1,6 @@
 <div align="center">
 <br />
-<img src="[[https://tenor.com/view/esqueleto-gif-24452082](https://giphy.com/clips/justin-lol-laughing-minions-CJyRX8btFziYLt3WAT)](https://imgs.search.brave.com/6P3n8BVg2HeVYRy5djbtIJu8sqap4UNuQK2Rc57c7TA/rs:fit:350:306:1/g:ce/aHR0cDovL3d3dy5k/cm9kZC5jb20vaW1h/Z2VzOC9mdW5ueS1n/aWYvZnVubnktZ2lm/Mi5naWY.gif)"/>
+<img src="(https://imgs.search.brave.com/6P3n8BVg2HeVYRy5djbtIJu8sqap4UNuQK2Rc57c7TA/rs:fit:350:306:1/g:ce/aHR0cDovL3d3dy5k/cm9kZC5jb20vaW1h/Z2VzOC9mdW5ueS1n/aWYvZnVubnktZ2lm/Mi5naWY.gif)"/>
 <h1>Hey, I'm snat 👋</h1></div>
 
 ---
