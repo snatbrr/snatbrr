@@ -1,7 +1,7 @@
 <div align="center">
 <br />
-<img src="https://tenor.com/view/esqueleto-gif-24452082"/>
-<h1>Hey, I'm root 👋</h1></div>
+<img src="[https://tenor.com/view/esqueleto-gif-24452082](https://giphy.com/clips/justin-lol-laughing-minions-CJyRX8btFziYLt3WAT)"/>
+<h1>Hey, I'm snat 👋</h1></div>
 
 ---
 <div align="center">
