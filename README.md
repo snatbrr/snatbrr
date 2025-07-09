@@ -8,8 +8,8 @@
 
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=aaronedev&theme=aura&show_icons=true&hide_border=true&count_private=true" alt="aaronedev's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaronedev&theme=aura&hide_border=true" alt="aaronedev's Streak" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=snatbrr&theme=aura&show_icons=true&hide_border=true&count_private=true" alt="snatbrr's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=snatbrr&theme=aura&hide_border=true" alt="snatbrr's Streak" height="165">
   </p>
 </div>
 
