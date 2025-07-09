@@ -4,8 +4,14 @@
 <h1>Hey, I'm snat 👋</h1></div>
 
 ---
-<div align="center">
-<b><h3>GitHub Statistics⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Most Used Languages</h3></b>
+## 📈 My GitHub stats
+
+<div class="badges-githubstats">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=aaronedev&theme=aura&show_icons=true&hide_border=true&count_private=true" alt="aaronedev's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaronedev&theme=aura&hide_border=true" alt="aaronedev's Streak" height="165">
+  </p>
+</div>
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=snatbrr&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide_border=true&hide_rank=true&theme=chartreuse-dark&bg_color=00000000"/></a><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=snatbrr&hide_title=true&hide_border=true&layout=compact&theme=chartreuse-dark&bg_color=00000000"/></a>
 </div>
