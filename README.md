@@ -4,7 +4,7 @@
 <h1>Hey, I'm snat 👋</h1></div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/8338a39a-aa2b-4a94-8ff7-8c0d46815f52" alt="222737" width="400"/>
+  <img src="https://github.com/user-attachments/assets/8338a39a-aa2b-4a94-8ff7-8c0d46815f52" alt="Astronaut" style="width: 100%;" />
 </div>
 
 ---
