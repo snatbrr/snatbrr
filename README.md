@@ -3,7 +3,9 @@
 <img src="(https://imgs.search.brave.com/6P3n8BVg2HeVYRy5djbtIJu8sqap4UNuQK2Rc57c7TA/rs:fit:350:306:1/g:ce/aHR0cDovL3d3dy5k/cm9kZC5jb20vaW1h/Z2VzOC9mdW5ueS1n/aWYvZnVubnktZ2lm/Mi5naWY.gif)"/>
 <h1>Hey, I'm snat 👋</h1></div>
 
-![222737](https://github.com/user-attachments/assets/8338a39a-aa2b-4a94-8ff7-8c0d46815f52)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8338a39a-aa2b-4a94-8ff7-8c0d46815f52" alt="222737" width="400"/>
+</div>
 
 ---
 ## 📈 My GitHub stats
